@@ -1,0 +1,142 @@
+[
+    {
+        "id": "coca",
+        "titulo": "Coca-Cola 2.25L",
+        "imagen": "./img/gaseosa/01.jpg",
+        "categoria": {
+            "nombre": "Gaseosa",
+            "id": "Gaseosa"
+        },
+        "precio": 3075
+    },
+    {
+        "id": "sprite",
+        "titulo": "Sprite 2.25L",
+        "imagen": "./img/gaseosa/02.jpg",
+        "categoria": {
+            "nombre": "Gaseosa",
+            "id": "gaseosa"
+        },
+        "precio": 3075
+    },
+    {
+        "id": "fanta",
+        "titulo": "Fanta 2.25L",
+        "imagen": "./img/gaseosa/03.jpg",
+        "categoria": {
+            "nombre": "Gaseosa",
+            "id": "gaseosa"
+        },
+        "precio": 3075
+    },
+    {
+        "id": "schweppes",
+        "titulo": "Schweppes 2.25L Sin Azucar",
+        "imagen": "./img/gaseosa/04.jpg",
+        "categoria": {
+            "nombre": "Gaseosa",
+            "id": "gaseosa"
+        },
+        "precio": 3075
+    },
+    {
+        "id": "coca cola zero",
+        "titulo": "Coca Cola Zero 2.25L",
+        "imagen": "./img/gaseosa/05.jpg",
+        "categoria": {
+            "nombre": "Gaseosa",
+            "id": "gaseosa"
+        },
+        "precio": 3075
+    },
+    {
+        "id": "fernet branca",
+        "titulo": "Fernet Branca 1L",
+        "imagen": "./img/aperitivos/01.jpg",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id": "aperitivos"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "gancia",
+        "titulo": "Gancia 1.25L",
+        "imagen": "./img/aperitivos/02.jpg",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id": "aperitivos"
+        },
+        "precio": 4400
+    },
+    {
+        "id": "campari",
+        "titulo": "Campari 750Mñ",
+        "imagen": "./img/aperitivos/03.jpg",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id": "aperitivos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "fernet buhero",
+        "titulo": "Fernet Buhero 700Ml",
+        "imagen": "./img/aperitivos/04.jpg",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id": "aperitivos"
+        },
+        "precio": 6760
+    },
+    {
+        "id": "cerveza corona",
+        "titulo": "Cerveza Corona",
+        "imagen": "./img/cervezas/01.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 4205
+    },
+    {
+        "id": "cerveza heineken",
+        "titulo": "Cerveza Heineken",
+        "imagen": "./img/cervezas/02.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 2015
+    },
+    {
+        "id": "cerveza imperial golden",
+        "titulo": "Cerveza Imperial Golden",
+        "imagen": "./img/cervezas/03.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 4290
+    },
+    {
+        "id": "cerveza patagonia 24.7",
+        "titulo": "Cerveza Patagonia 24.7",
+        "imagen": "./img/cervezas/04.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 3700
+    },
+    {
+        "id": "cerveza andes",
+        "titulo": "Cerveza Andes",
+        "imagen": "./img/cervezas/05.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 4350
+    }
+]
